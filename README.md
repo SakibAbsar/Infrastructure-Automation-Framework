@@ -1,5 +1,5 @@
 
-# End-to-End CI/CD Pipeline and Infrastructure Automation Framework
+# Infrastructure Automation Framework
 
 ## Overview
 This project simulates a DevOps framework for automating infrastructure provisioning, containerization, CI/CD pipelines, and monitoring. It includes infrastructure as code (IaC) with Terraform and Ansible, containerized deployments, CI/CD configurations, and monitoring solutions.
