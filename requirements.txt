@@ -1,0 +1,6 @@
+
+boto3
+requests
+fluentd
+prometheus_client
+docker
