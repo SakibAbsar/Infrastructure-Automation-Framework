@@ -1,6 +1,0 @@
-
-- name: Configure and Deploy Application
-  hosts: web_servers
-  become: yes
-  roles:
-    - web_server
